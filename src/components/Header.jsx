@@ -5,7 +5,7 @@ function Header() {
     <nav className={"deep-purple darken-1"}>
       <div className="nav-wrapper">
         <Link to="/" className="brand-logo">
-          React Shop
+          React Recipe
         </Link>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
